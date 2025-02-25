@@ -57,7 +57,7 @@ I thrive in **high-performance IT environments**, ensuring system reliability, s
 💻 **Languages:** Java, Python  
 🔌 **APIs:** REST API, GraphQL  
 📦 **CI/CD & Automation:** GitHub Actions, Jenkins, GitOps  
-☁️ **Cloud Platforms:** Azure, AWS  
+☁️ **Cloud Platforms:** GCP, Azure, AWS  
 🚀 **DevOps & IaC:** Docker, Kubernetes, Terraform, Ansible  
 📊 **Monitoring & Security:** Grafana, Firewalls, Datadog, Prometheus, Zabbix, 
 
