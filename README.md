@@ -59,7 +59,7 @@ I thrive in **high-performance IT environments**, ensuring system reliability, s
 📦 **CI/CD & Automation:** GitHub Actions, Jenkins, GitOps  
 ☁️ **Cloud Platforms:** Azure, AWS  
 🚀 **DevOps & IaC:** Docker, Kubernetes, Terraform, Ansible  
-📊 **Monitoring & Security:** Grafana, Fortinet  
+📊 **Monitoring & Security:** Grafana, Firewalls, Datadog, Prometheus, Zabbix, 
 
 ---
 
@@ -74,7 +74,8 @@ I thrive in **high-performance IT environments**, ensuring system reliability, s
 ## 📫 **Get in Touch**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/nelson-ngumo-869033162/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/Ngumonelson123)  
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/your_techguyke)  
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://x.com/your_techguyke)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=netlify)](https://nelsongumo-devops-portfolio.netlify.app/)
 
 ---
 
