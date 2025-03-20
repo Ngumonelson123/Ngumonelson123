@@ -31,8 +31,7 @@
 ![Fortinet](https://img.shields.io/badge/Fortinet-%23EE3124.svg?style=flat&logo=fortinet&logoColor=white)  
 
 💻 **Languages & APIs:**  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)   
 ![REST API](https://img.shields.io/badge/REST-API-%2300D09C.svg?style=flat)  
 
 ---
