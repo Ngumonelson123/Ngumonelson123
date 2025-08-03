@@ -1,5 +1,5 @@
 
-🚀 **DevOps Engineer | Cloud & Automation | IT Operations**  
+🚀 **DevOps Engineer | Cloud Native** 
 
 🔧 **CI/CD | Kubernetes | Docker | Terraform | Ansible | Azure**  
 
